@@ -6,10 +6,10 @@ releases, and GHCR images are maintained in
 [ChaptarrNG](https://github.com/snapetech/chaptarrng).
 
 ChaptarrNG is Snapetech's maintained Chaptarr fork for ebook and audiobook
-libraries. Its SeerrNG-specific changes add format-scoped book requests and
-monitoring, durable tracking for imports delayed by author metadata
-preparation, and request-safe retry and cancellation. ChaptarrNG remains a
-standalone book manager; SeerrNG is optional.
+libraries, built on **.NET 10 LTS**. Its SeerrNG-specific changes add
+format-scoped book requests and monitoring, durable tracking for imports delayed
+by author metadata preparation, and request-safe retry and cancellation.
+ChaptarrNG remains a standalone book manager; SeerrNG is optional.
 
 ## Submit to Community Applications
 

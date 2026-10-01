@@ -8,7 +8,7 @@
   <Privileged>false</Privileged>
   <Icon>https://raw.githubusercontent.com/snapetech/chaptarrng/main/Logo/256.png</Icon>
   <WebUI>http://[IP]:[PORT:8789]/</WebUI>
-  <Overview>Manage audiobook and eBook libraries with the Snapetech-maintained Chaptarr fork and optional SeerrNG request integration.</Overview>
+  <Overview>Built on .NET 10 LTS, ChaptarrNG manages audiobook and eBook libraries with format-aware automation and optional SeerrNG integration.</Overview>
   <Description>ChaptarrNG is Snapetech's maintained fork of Chaptarr, with format-scoped book requests and durable pending-import handling for SeerrNG. It is a standalone book manager and does not require SeerrNG. This template installs the ChaptarrNG GHCR image, stores app data under /config, and provides separate audiobook, ebook, and download paths. Set PUID and PGID to match your share ownership; the image defaults to 99:100.</Description>
   <Support>https://github.com/snapetech/chaptarrng/issues</Support>
   <Project>https://github.com/snapetech/chaptarrng</Project>
